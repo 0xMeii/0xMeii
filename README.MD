@@ -1,4 +1,4 @@
-<img src="https://github.com/0xMeii/0xMeii/blob/main/meii.png" width="300" img align="right" />
+<img src="https://github.com/0xMeii/0xMeii/blob/main/meii.png" width="200" img align="right" />
 
 <!-- GO CODE -->
 ```python
