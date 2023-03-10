@@ -24,6 +24,7 @@ class Attributes:
             'intermediate': ['javascript', 'html', 'css', 'sql', 'python'],
             'learning': ['c', 'c++', 'c#', 'ruby', 'php']
         }
+        
     def hobbies(self):
         hobbies = ['Escuchar música', 'Jugar Dota 2']
         return hobbies
