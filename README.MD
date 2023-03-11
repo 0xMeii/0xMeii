@@ -34,7 +34,8 @@ class Attributes:
 
 <div align="center">
   <img src="https://i.imgur.com/g2YspM5.png" width="148" align="left" />
-  <a href="https://discord.com/users/:1051592920882487406"><img src="https://lanyard-profile-readme.vercel.app/api/1051592920882487406" width="45%" align="right"></a>
+  <a href="https://discord.com/users/:1051592920882487406"><img src="https://lanyard-profile-readme.vercel.app/api/1051592920882487406" max-width="148px" width="45%" align="right"></a>
 </div>
+
 
 
