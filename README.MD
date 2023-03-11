@@ -35,7 +35,7 @@ class Attributes:
 <div align="center">
   <img src="https://i.imgur.com/7mfNnZI.png" width="148" align="left" />
   <a href="https://discord.com/users/:1051592920882487406"><img src="https://lanyard-profile-readme.vercel.app/api/1051592920882487406" max-width="148px" width="45%" align="center"></a>
-  <img src="https://i.imgur.com/785tgw2.png" width="180" align="right" />
+  <img src="https://i.imgur.com/785tgw2.png" width="130" align="right" />
 </div>
 
 
