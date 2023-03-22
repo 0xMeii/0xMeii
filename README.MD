@@ -11,7 +11,8 @@ class Attributes:
     def contact(self):
         instagram = "anonyfwckz"
         discord = "anonydeath#0666"
-        return instagram, discord
+        email   = "0xmeii@tuta.io"
+        return instagram, discord, email
 
     def life(self):
         langs = ['Spanish', 'English']
@@ -24,6 +25,7 @@ class Attributes:
             'intermediate': ['javascript', 'html', 'css', 'sql', 'python'],
             'learning': ['c', 'c++', 'c#', 'ruby', 'php']
         }
+        return langs
         
     def hobbies(self):
         hobbies = ['Escuchar música', 'Jugar Dota 2']
