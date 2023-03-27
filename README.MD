@@ -10,7 +10,7 @@ class Attributes:
         
     def contact(self):
         instagram = "anonyfwckz"
-        discord = "anonydeath#0666"
+        discord = "0xMeii#0666"
         email   = "0xmeii@tuta.io"
         return instagram, discord, email
 
