@@ -21,8 +21,8 @@ class Attributes:
     def coding_skills(self):
         langs = {
             'basic': ['java'],
-            'intermediate': ['javascript', 'html', 'css', 'sql', 'python'],
-            'learning': ['c', 'c++', 'c#', 'ruby', 'php']
+            'intermediate': ['javascript', 'html', 'css', 'sql', 'python', 'ruby'],
+            'learning': ['c', 'c++', 'c#', 'php']
         }
         return langs
         
