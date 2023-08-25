@@ -9,10 +9,9 @@ class Attributes:
         pass
         
     def contact(self):
-        instagram = "anonyfwckz"
         discord = "0xMeii#0666"
         email   = "0xmeii@tuta.io"
-        return instagram, discord, email
+        return discord, email
 
     def life(self):
         langs = ['Spanish', 'English']
